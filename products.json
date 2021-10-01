@@ -1,0 +1,72 @@
+{
+    "product-1": {
+        "name": "HTML 5",
+        "price": 400,
+        "location": "source/img/7.jpg"
+    },
+    "product-2": {
+        "name": "Sass",
+        "price": 400,
+        "location": "source/img/6.jpg"
+    },
+    "product-3": {
+        "name": "Node JS",
+        "price": 400,
+        "location": "source/img/5.jpg"
+    },
+    "product-4": {
+        "name": "Redux",
+        "price": 400,
+        "location": "source/img/4.jpg"
+    },
+    "product-5": {
+        "name": "React",
+        "price": 400,
+        "location": "source/img/3.jpg"
+    },
+    "product-6": {
+        "name": "Angular",
+        "price": 400,
+        "location": "source/img/2.jpg"
+    },
+    "product-7": {
+        "name": "Vue",
+        "price": 400,
+        "location": "source/img/1.jpg"
+    },
+    "product-8": {
+        "name": "WordPress",
+        "price": 400,
+        "location": "source/img/14.jpg"
+    },
+    "product-9": {
+        "name": "GraphQL",
+        "price": 400,
+        "location": "source/img/13.jpg"
+    },
+    "product-10": {
+        "name": "JavaScript",
+        "price": 400,
+        "location": "source/img/12.jpg"
+    },
+    "product-11": {
+        "name": "Drupal",
+        "price": 400,
+        "location": "source/img/11.jpg"
+    },
+    "product-12": {
+        "name": "Typescript",
+        "price": 400,
+        "location": "source/img/10.jpg"
+    },
+    "product-13": {
+        "name": "Bulma",
+        "price": 400,
+        "location": "source/img/9.jpg"
+    },
+    "product-14": {
+        "name": "GitHub",
+        "price": 400,
+        "location": "source/img/8.jpg"
+    }
+}
